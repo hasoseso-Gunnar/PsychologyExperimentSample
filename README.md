@@ -46,7 +46,7 @@ root:
 本実験サイトの核となるファイル。
 基本的に、実験サイトの処理に必要なプログラムはここに全て記述する。
 
-後述の「4.外部ライブラリについて」でも述べるように、デフォルトではheadタグ内にて「Vue.js」「Quasar Framework」の2つの外部ライブラリがCDN（Contents Delivery Network）で読み込まれている。
+後述の「4.外部ライブラリについて」でも述べるように、デフォルトではheadタグ内にて「Vue.js」「Quasar Framework」「jsPsych」「http-vue-loader」の4つの外部ライブラリがCDN（Contents Delivery Network）で読み込まれている。
 
 
 #### ③README.md
